@@ -15,7 +15,6 @@ public class BooleanUkGithubActionsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BooleanUkGithubActionsApplication.class, args);
 
-
 	}
 
     @Bean
