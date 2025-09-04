@@ -10,10 +10,10 @@ import org.springframework.context.annotation.Bean;
 import java.util.List;
 
 @SpringBootApplication
-public class Main {
+public class BooleanUkGithubActionsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Main.class, args);
+		SpringApplication.run(BooleanUkGithubActionsApplication.class, args);
 
 
 	}
